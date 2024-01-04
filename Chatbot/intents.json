@@ -1,0 +1,14 @@
+{"intents":[
+    {
+        "tag": "Saludo",
+        "patterns": ["Hola", "que tal", "Como estas", "Saludos"],
+        "responses": ["Hola!","Buen dia!!", "¿Como estas?"]
+    },
+    {
+        "tag": "Nombre",
+        "patterns": ["Como te llamas", "como es tu nombre"],
+        "responses": ["Me llamo Papa Otto","Mi Nombre es Papa Otto"]
+    }
+]
+
+}
